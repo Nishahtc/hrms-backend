@@ -2,7 +2,7 @@
   "leaves": [
     {
       "id": 1,
-      "img": "women1",
+      "img": "women1.jpg",
       "name": "Juan Sarmienth",
       "position": "PHP Web Developer",
       "positionColor": "success-700",
@@ -15,7 +15,7 @@
     },
     {
       "id": 2,
-      "img": "women2",
+      "img": "women2.jpg",
       "name": "Emily Carter",
       "position": "UI/UX Designer",
       "positionColor": "brand-600",
@@ -28,7 +28,7 @@
     },
     {
       "id": 3,
-      "img": "women3",
+      "img": "women3.jpg",
       "name": "Michael Johnson",
       "position": "React Developer",
       "positionColor": "success-700",
@@ -41,7 +41,7 @@
     },
     {
       "id": 4,
-      "img": "women4",
+      "img": "women4.jpg",
       "name": "Sophia Brown",
       "position": "HR Manager",
       "positionColor": "secondary-700",
@@ -54,7 +54,7 @@
     },
     {
       "id": 5,
-      "img": "women1",
+      "img": "women1.jpg",
       "name": "Liam Wilson",
       "position": "Marketing Executive",
       "positionColor": "warning-700",
@@ -67,7 +67,7 @@
     },
     {
       "id": 6,
-      "img": "women3",
+      "img": "women3.jpg",
       "name": "Olivia Davis",
       "position": "QA Engineer",
       "positionColor": "success-700",
@@ -80,7 +80,7 @@
     },
     {
       "id": 7,
-      "img": "women2",
+      "img": "women2.jpg",
       "name": "Noah Miller",
       "position": "Project Manager",
       "positionColor": "warning-700",
@@ -93,7 +93,7 @@
     },
     {
       "id": 8,
-      "img": "women2",
+      "img": "women2.jpg",
       "name": "Isabella Taylor",
       "position": "Content Writer",
       "positionColor": "success-500",
@@ -106,7 +106,7 @@
     },
     {
       "id": 9,
-      "img": "women2",
+      "img": "women2.jpg",
       "name": "James Anderson",
       "position": "Backend Developer",
       "positionColor": "brand-700",
@@ -119,7 +119,7 @@
     },
     {
       "id": 10,
-      "img": "women2",
+      "img": "women2.jpg",
       "name": "Mia Martinez",
       "position": "Recruiter",
       "positionColor": "success-500",
@@ -132,7 +132,7 @@
     },
     {
       "id": 11,
-      "img": "women2",
+      "img": "women2.jpg",
       "name": "William Scott",
       "position": "DevOps Engineer",
       "positionColor": "secondary-700",
@@ -145,7 +145,7 @@
     },
     {
       "id": 12,
-      "img": "women1",
+      "img": "women1.jpg",
       "name": "Charlotte Lee",
       "position": "Finance Analyst",
       "positionColor": "brand-700",
@@ -158,7 +158,7 @@
     },
     {
       "id": 13,
-      "img": "women2",
+      "img": "women2.jpg",
       "name": "Benjamin Harris",
       "position": "Full Stack Developer",
       "positionColor": "success-500",
@@ -171,7 +171,7 @@
     },
     {
       "id": 14,
-      "img": "women2",
+      "img": "women2.jpg",
       "name": "Amelia Thompson",
       "position": "SEO Specialist",
       "positionColor": "brand-700",
@@ -184,7 +184,7 @@
     },
     {
       "id": 15,
-      "img": "women2",
+      "img": "women2.jpg",
       "name": "Alexander White",
       "position": "Team Lead",
       "positionColor": "secondary-400",
