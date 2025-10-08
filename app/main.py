@@ -3,6 +3,10 @@ from fastapi.middleware.cors import CORSMiddleware
 from app.routes.payroll_routes import router as payroll_router
 from app.routes.employees_routes import router as employee_router
 from app.routes.vacancies_routes import router as vacancies_router
+from app.routes.leaves_routes import router as leaves_router
+from app.routes.applicant_routes import router as applicant_router
+from app.routes.candidate_routes import router as candidate_routes
+from app.routes.employees_details_routes import router as employees_details_routes
 
 app = FastAPI()
 
@@ -20,6 +24,11 @@ app.add_middleware(
 app.include_router(payroll_router, prefix="/payrolls")
 app.include_router(employee_router, prefix="/employees")
 app.include_router(vacancies_router, prefix="/vacancies")
+app.include_router(leaves_router, prefix="/leaves")
+app.include_router(applicant_router, prefix="/applicants")
+app.include_router(leaves_router, prefix="/leaves")
+app.include_router(candidate_routes, prefix="/candidate")
+app.include_router(employees_details_routes, prefix="/employeesDetails")
 
 # @app.get("/")
 # def home():

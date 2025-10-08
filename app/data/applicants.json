@@ -1,0 +1,118 @@
+{
+    "applicantsData":[
+  {
+    "name": "Jameson Steul",
+    "position": "Full Stack Developer",
+    "date": "Sep 10, 2023",
+    "statusValue": 4,
+    "statusLabel": "Interview 2",
+    "email": "steuber2012@example.com",
+    "rating": 4,
+    "phone": "(123) 456-7890",
+    "linkedin": "linkedin.com/in/j.steuber",
+    "applied": "Aug 22, 2023",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "university": "University of Technology",
+        "graduation": "May 2017"
+      },
+      {
+        "degree": "Certification in Full Stack Web Development",
+        "university": "Coursera / Udemy",
+        "graduation": "Dec 2022"
+      }
+    ],
+    "experience": [
+      {
+        "title": "Software Engineer",
+        "company": "Tech Innovators Inc",
+        "location": "United States",
+        "duration": "Jan 2023 - Present",
+        "description": [
+          "Developed React.js components for improved engagement.",
+          "Collaborated on RESTful APIs for seamless data exchange.",
+          "Optimized performance through efficient algorithms."
+        ]
+      },
+      {
+        "title": "Full Stack Developer",
+        "company": "WebSolutions Ltd",
+        "location": "Sydney",
+        "duration": "Jul 2021 - Dec 2022",
+        "description": [
+          "Led team designing client management system.",
+          "Created custom WordPress themes and plugins."
+        ]
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "HTML5",
+      "CSS3",
+      "Git",
+      "JIRA",
+      "Slack"
+    ]
+  },
+  {
+    "name": "Ellen Howell",
+    "position": "UI/UX Designer",
+    "date": "Sep 3, 2023",
+    "statusValue": 2,
+    "statusLabel": "Review",
+    "email": "elen4452@example.cc",
+    "rating": 0
+  },
+  {
+    "name": "Krystina Kautz",
+    "position": "Data Analyst",
+    "date": "Sep 1, 2023",
+    "statusValue": 5,
+    "statusLabel": "Onboarding",
+    "email": "krkautz@example.co",
+    "rating": 5
+  },
+  {
+    "name": "Colt Lakin",
+    "position": "Frontend Developer",
+    "date": "Aug 28, 2023",
+    "statusValue": 4,
+    "statusLabel": "Offer Extended",
+    "email": "coltlakin@example.co",
+    "rating": 5
+  },
+  {
+    "name": "Donnie Howell",
+    "position": "C++ Game Developer",
+    "date": "Aug 24, 2023",
+    "statusValue": 3,
+    "statusLabel": "Interview",
+    "email": "d.qwert@example.com",
+    "rating": 0
+  },
+  {
+    "name": "Ellen Howell",
+    "position": "PHP Web Developer",
+    "date": "Aug 24, 2023",
+    "statusValue": 3,
+    "statusLabel": "Offer Extended",
+    "email": "e.howell12@example.com",
+    "rating": 4
+  },
+  {
+    "name": "Gabriella Lakin",
+    "position": "Project Manager",
+    "date": "Aug 22, 2023",
+    "statusValue": 3,
+    "statusLabel": "Review",
+    "email": "g.lakin1990@example.com",
+    "rating": 3
+  }
+]
+
+}

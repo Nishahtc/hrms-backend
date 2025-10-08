@@ -1,0 +1,351 @@
+{
+    "employeesDetails": [
+        {
+            "id": 1,
+            "name": "Olivia Williams",
+            "img": "img_placeholder.jpg",
+            "position": "Project Manager",
+            "department": "Sales & Marketing",
+            "dateOfJoining": "Jan 19, 2020",
+            "email": "owilliams@email.com",
+            "lastUpdated": "12 Apr, 2020",
+            "personalInfo": {
+                "passportNo": "QW3342981",
+                "passportExpDate": "12/12/28",
+                "phoneNo": "(380)-322-4422",
+                "birthday": "12/01/1988",
+                "maritalStatus": "Married"
+            },
+            "bankInfo": {
+                "accountNo": "00234552976293057",
+                "ifscCode": "CC128693311",
+                "panNo": "0012998383647383"
+            },
+            "salaryInfo": {
+                "salaryBasis": "Monthly",
+                "salaryAmountPerMonth": "$1300",
+                "effectiveDate": "19/08/2022",
+                "paymentType": "Transfer",
+                "billRate": "20%"
+            },
+            "skills": [
+                "Project Management",
+                "Team Leadership",
+                "Data Agile Methodologies",
+                "Risk Management",
+                "Budgeting and Financial Management",
+                "Stakeholder Communication",
+                "Process Improvement",
+                "Scope Management",
+                "Quality Assurance",
+                "Presentation Skills",
+                "Conflict Resolution",
+                "Data Analytics Tools",
+                "Trello",
+                "JIRA",
+                "Microsoft Project"
+            ],
+            "officeManagement": [
+                {
+                    "section": "Office Management",
+                    "description": "Enhance user experience and functionality of our online store by revamping design, improving navigation, and implementing features to boost engagement and conversions.",
+                    "deadline": "Dec 22, 2022",
+                    "projectLeader": "Henry Richardson",
+                    "progress": 50,
+                    "title": "Website Redesign"
+                },
+                {
+                    "section": "Office Management",
+                    "description": "Develop an app for seamless event planning and attendee management. Features include scheduling, registration, ticketing, real-time updates, and networking.",
+                    "deadline": "Nov 12, 2022",
+                    "projectLeader": "Bárbara Cotilla",
+                    "progress": 50,
+                    "title": "Mobile App Launch"
+                }
+            ],
+            "educations": [
+                {
+                    "degree": "Bachelor of Science in Computer Science",
+                    "institution": "University of Technology",
+                    "graduationDate": "Graduated May 2017"
+                },
+                {
+                    "certification": "Certification in Full Stack Web Development"
+                },
+                {
+                    "certification": "Certification in Full Stack Web Development"
+                },
+                {
+                    "certification": "Certification in Full Stack Web Development"
+                }
+            ],
+            "experiences": [
+                {
+                    "role": "Senior Project Manager",
+                    "company": "Tech Solutions Pro",
+                    "location": "Dayton",
+                    "duration": "Aug 2023 - Present",
+                    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. When an unknown printer took a galley of type and..."
+                },
+                {
+                    "role": "Assistant Project Manager",
+                    "company": "Tech Innovators Ltd.",
+                    "location": "Louisville",
+                    "duration": "Jul 2018 - Dec 2019",
+                    "description": "Assisted Project Managers in coordinating project activities, resources, and timelines. Prepared project status reports, tracked..."
+                },
+                {
+                    "role": "Senior Project Manager",
+                    "company": "Tech Solutions Pro",
+                    "location": "Dayton",
+                    "duration": "Aug 2023 - Present",
+                    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. When an unknown printer took a galley of type and..."
+                },
+                {
+                    "role": "Project Coordinator",
+                    "company": "Software Solutions",
+                    "location": "Dayton",
+                    "duration": "Aug 2023 - Present",
+                    "description": "Assisted Project Managers in coordinating project activities and ensuring adherence to timelines. Prepared and delivered project..."
+                },
+                {
+                    "role": "Project Manager",
+                    "company": "",
+                    "location": "",
+                    "duration": "",
+                    "description": ""
+                },
+                {
+                    "role": "Senior Project Manager",
+                    "company": "Tech Solutions Pro",
+                    "location": "Dayton",
+                    "duration": "Aug 2023 - Present",
+                    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. When an unknown printer took a galley of type and..."
+                }
+            ],
+            "documents": [
+                "Employment Contract",
+                "Resume",
+                "Personal Information",
+                "Offer Letter",
+                "Bank Statements",
+                "Certificates",
+                "ID Proof",
+                "Personal Information",
+                "Offer Letter",
+                "Bank Statements",
+                "Certificates"
+            ]
+        },
+
+        {
+            "id": 2,
+            "name": "Chester Wiza",
+            "img": "img_placeholder.jpg",
+            "position": "Full Stack Developer",
+            "department": "Sales & Marketing",
+            "dateOfJoining": "Aug 2, 2023",
+            "email": "chester@example.com",
+            "personalInfo": {
+                "passportNo": "P2345678",
+                "passportExpDate": "11/11/29",
+                "phoneNo": "(555) 123-4567",
+                "birthday": "05/05/1992",
+                "maritalStatus": "Single"
+            },
+            "bankInfo": {
+                "accountNo": "2345678901234567",
+                "ifscCode": "IFSC2345678",
+                "panNo": "PAN2345678"
+            },
+            "salaryInfo": {
+                "salaryBasis": "Monthly",
+                "salaryAmountPerMonth": "$4000",
+                "effectiveDate": "02/08/2023",
+                "paymentType": "Transfer",
+                "billRate": "25%"
+            },
+            "skills": [
+                "React.js",
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "Git",
+                "Docker"
+            ],
+            "officeManagement": [
+                {
+                    "title": "Website Redesign",
+                    "deadline": "Nov 30, 2023",
+                    "projectLeader": "Sophia Miller",
+                    "progress": 60
+                }
+            ],
+            "educations": [
+                {
+                    "degree": "B.Tech in Computer Science",
+                    "institution": "Stanford University",
+                    "graduationDate": "Graduated 2016"
+                },
+                {
+                    "certification": "MERN Stack Development"
+                }
+            ],
+            "experiences": [
+                {
+                    "role": "Junior Developer",
+                    "company": "",
+                    "location": "Boston",
+                    "duration": "Jan 2017 - Dec 2018",
+                    "description": "Worked on front-end React applications."
+                },
+                {
+                    "role": "Full Stack Developer",
+                    "company": "",
+                    "location": "Seattle",
+                    "duration": "Jan 2019 - Aug 2023",
+                    "description": "Built and maintained full-stack MERN apps."
+                }
+            ],
+            "documents": [
+                "Resume",
+                "Employee Contract",
+                "Personal Info"
+            ]
+        },
+
+        {
+    "id": 3,
+    "name": "Kallie Towne",
+    "img": "img_placeholder.jpg",
+    "position": "Graphic Designer",
+    "department": "Sales & Marketing",
+    "dateOfJoining": "Jan 10, 2022",
+    "email": "kallie2@example.com",
+    "personalInfo": {
+      "passportNo": "P8901234",
+      "passportExpDate": "05/05/28",
+      "phoneNo": "(143) 453-8733",
+      "birthday": "12/12/1991",
+      "maritalStatus": "Single"
+    },
+    "bankInfo": {
+      "accountNo": "8901234567890123",
+      "ifscCode": "IFSC8901234",
+      "panNo": "PAN8901234"
+    },
+    "salaryInfo": {
+      "salaryBasis": "Monthly",
+      "salaryAmountPerMonth": "$3800",
+      "effectiveDate": "10/01/2022",
+      "paymentType": "Transfer",
+      "billRate": "22%"
+    },
+    "skills": ["Photoshop", "Illustrator", "After Effects", "UI Design"],
+    "educations": [
+      {
+        "degree": "B.Des in Graphic Design",
+        "institution": "Parsons School of Design",
+        "graduationDate": "Graduated 2014"
+      },
+      {
+        "certification": "Advanced Graphic Design"
+      }
+    ],
+    "officeManagement": [
+      {
+        "title": "Website Redesign",
+        "deadline": "Dec 31, 2023",
+        "projectLeader": "James Carter",
+        "progress": 55
+      }
+    ],
+    "experiences": [
+      {
+        "role": "Junior Graphic Designer",
+        "duration": "Jan 2015 - Dec 2016",
+        "location": "New York",
+        "description": "Created marketing visuals for campaigns."
+      },
+      {
+        "role": "Graphic Designer",
+        "duration": "Jan 2017 - Jan 2022",
+        "location": "Los Angeles",
+        "description": "Designed UI and brand graphics."
+      }
+    ],
+    "documents": [
+      { "type": "Resume", "fileName": "Kallie_Towne2_Resume.pdf" },
+      { "type": "Employee Contract", "fileName": "Kallie_Towne2_Contract.pdf" },
+      { "type": "Personal Info", "fileName": "Kallie_Towne2_PersonalInfo.pdf" }
+    ]
+        },
+
+        {
+    "id": 4,
+    "name": "Ethan Hunt",
+    "img": "img_placeholder.jpg",
+    "position": "Backend Developer",
+    "department": "IT",
+    "dateOfJoining": "Jun 1, 2022",
+    "email": "ethan@example.com",
+    "personalInfo": {
+      "passportNo": "P9012345",
+      "passportExpDate": "10/10/29",
+      "phoneNo": "(321) 654-9870",
+      "birthday": "01/01/1990",
+      "maritalStatus": "Single"
+    },
+    "bankInfo": {
+      "accountNo": "9012345678901234",
+      "ifscCode": "IFSC9012345",
+      "panNo": "PAN9012345"
+    },
+    "salaryInfo": {
+      "salaryBasis": "Monthly",
+      "salaryAmountPerMonth": "$4500",
+      "effectiveDate": "01/06/2022",
+      "paymentType": "Transfer",
+      "billRate": "20%"
+    },
+    "skills": ["Node.js", "Express", "MongoDB", "REST APIs", "Docker", "Git", "Postman"],
+    "educations": [
+      {
+        "degree": "B.Tech in Computer Science",
+        "institution": "MIT",
+        "graduationDate": "Graduated 2015"
+      },
+      {
+        "certification": "Backend Development Certification"
+      }
+    ],
+    "officeManagement": [
+      {
+        "title": "Website Redesign",
+        "deadline": "Dec 31, 2023",
+        "projectLeader": "Laura Green",
+        "progress": 60
+      }
+    ],
+    "experiences": [
+      {
+        "role": "Junior Backend Developer",
+        "duration": "Jan 2016 - Dec 2017",
+        "location": "New York",
+        "description": "Assisted in API development and database design."
+      },
+      {
+        "role": "Backend Developer",
+        "duration": "Jan 2018 - May 2022",
+        "location": "Boston",
+        "description": "Worked on scalable backend applications."
+      }
+    ],
+    "documents": [
+      { "type": "Resume", "fileName": "Ethan_Hunt_Resume.pdf" },
+      { "type": "Employee Contract", "fileName": "Ethan_Hunt_Contract.pdf" },
+      { "type": "Personal Info", "fileName": "Ethan_Hunt_PersonalInfo.pdf" }
+    ]
+        }
+    ]
+}
