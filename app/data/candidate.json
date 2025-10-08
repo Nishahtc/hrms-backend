@@ -1,0 +1,74 @@
+{
+  "candidate_data": [
+    {
+      "id": 1,
+      "img": "img",
+      "name": "Diana Campos",
+      "applicationDate": "Sep, 12 2023",
+      "email": "b.bradthke@example.com"
+    },
+    {
+      "id": 2,
+      "img": "img",
+      "name": "Ethan Johnson",
+      "applicationDate": "Sep, 15 2023",
+      "email": "ethan.johnson@example.com"
+    },
+    {
+      "id": 3,
+      "img": "img",
+      "name": "Sophia Brown",
+      "applicationDate": "Sep, 20 2023",
+      "email": "sophia.brown@example.com"
+    },
+    {
+      "id": 4,
+      "img": "img",
+      "name": "Liam Smith",
+      "applicationDate": "Oct, 02 2023",
+      "email": "liam.smith@example.com"
+    },
+    {
+      "id": 5,
+      "img": "img",
+      "name": "Ava Davis",
+      "applicationDate": "Oct, 05 2023",
+      "email": "ava.davis@example.com"
+    },
+    {
+      "id": 6,
+      "img": "img",
+      "name": "Noah Wilson",
+      "applicationDate": "Oct, 12 2023",
+      "email": "noah.wilson@example.com"
+    },
+    {
+      "id": 7,
+      "img": "img",
+      "name": "Isabella Martinez",
+      "applicationDate": "Oct, 18 2023",
+      "email": "isabella.martinez@example.com"
+    },
+    {
+      "id": 8,
+      "img": "img",
+      "name": "James Anderson",
+      "applicationDate": "Oct, 25 2023",
+      "email": "james.anderson@example.com"
+    },
+    {
+      "id": 9,
+      "img": "img",
+      "name": "Mia Thomas",
+      "applicationDate": "Nov, 01 2023",
+      "email": "mia.thomas@example.com"
+    },
+    {
+      "id": 10,
+      "img": "img",
+      "name": "Benjamin Garcia",
+      "applicationDate": "Nov, 08 2023",
+      "email": "benjamin.garcia@example.com"
+    }
+  ]
+}
