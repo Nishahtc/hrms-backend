@@ -2,7 +2,7 @@
   "payrolls":[
   {
     "id": 1,
-    "img": "men1",
+    "img": "men1.jpg",
     "name": "Tamas Bunce",
     "email": "tamas.bunce@example.com",
     "position": "Graphic Designer",
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "img": "men1",
+    "img": "men1.jpg",
     "name": "Sophia Brown",
     "email": "sophia.brown@example.com",
     "position": "Web Developer",
@@ -36,7 +36,7 @@
   },
   {
     "id": 3,
-    "img": "men1",
+    "img": "men1.jpg",
     "name": "Liam Smith",
     "email": "liam.smith@example.com",
     "position": "HR Manager",
@@ -53,7 +53,7 @@
   },
   {
     "id": 4,
-    "img": "men1",
+    "img": "men1.jpg",
     "name": "Ava Davis",
     "email": "ava.davis@example.com",
     "position": "Content Writer",
@@ -70,7 +70,7 @@
   },
   {
     "id": 5,
-    "img": "men1",
+    "img": "men1.jpg",
     "name": "Noah Wilson",
     "email": "noah.wilson@example.com",
     "position": "UI/UX Designer",
@@ -87,7 +87,7 @@
   },
   {
     "id": 6,
-    "img": "men1",
+    "img": "men1.jpg",
     "name": "Emma Johnson",
     "email": "emma.johnson@example.com",
     "position": "Backend Developer",
@@ -104,7 +104,7 @@
   },
   {
     "id": 7,
-    "img": "men1",
+    "img": "men1.jpg",
     "name": "James Lee",
     "email": "james.lee@example.com",
     "position": "Project Manager",
@@ -121,7 +121,7 @@
   },
   {
     "id": 8,
-    "img": "men1",
+    "img": "men1.jpg",
     "name": "Olivia Martin",
     "email": "olivia.martin@example.com",
     "position": "QA Engineer",
@@ -138,7 +138,7 @@
   },
   {
     "id": 9,
-    "img": "men1",
+    "img": "men1.jpg",
     "name": "William Scott",
     "email": "william.scott@example.com",
     "position": "Frontend Developer",
@@ -155,7 +155,7 @@
   },
   {
     "id": 10,
-    "img": "men1",
+    "img": "men1.jpg",
     "name": "Isabella Clark",
     "email": "isabella.clark@example.com",
     "position": "System Analyst",

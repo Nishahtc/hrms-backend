@@ -5,9 +5,12 @@ from app.config.config import VACANCY_FILE, IMAGE_URL
 router = APIRouter()
 
 @router.get("/")
-def get_payrolls():
+def get_vacancies():
     data = read_data(VACANCY_FILE)
-    for vacancies in data:
-        if "img" in vacancies:
-            vacancies["img"] = f"{IMAGE_URL}/{vacancies['img']}"
+    for vacancy in data:
+        if "img" in vacancy:
+            vacancy["img"] = f"{IMAGE_URL}/{vacancy['img']}"
     return data
+
+
+

@@ -2,7 +2,7 @@
   "employees": [
     {
       "id": 1,
-      "img": "img",
+      "img": "women3.png",
       "name": "Olivia Williams",
       "position": "PHP Web Developer",
       "department": "Development",
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "img": "img",
+      "img": "women3.png",
       "name": "Ethan Johnson",
       "position": "Software Engineer",
       "department": "IT",
@@ -35,7 +35,7 @@
     },
     {
       "id": 4,
-      "img": "img",
+      "img": "women3.png",
       "name": "Liam Smith",
       "position": "React Developer",
       "department": "Development",
@@ -46,7 +46,7 @@
     },
     {
       "id": 5,
-      "img": "img",
+      "img": "women3.png",
       "name": "Ava Davis",
       "position": "HR Manager",
       "department": "Human Resources",
@@ -57,7 +57,7 @@
     },
     {
       "id": 6,
-      "img": "img",
+      "img": "women3.png",
       "name": "Noah Wilson",
       "position": "Data Analyst",
       "department": "Analytics",
@@ -68,7 +68,7 @@
     },
     {
       "id": 7,
-      "img": "img",
+      "img": "women3.png",
       "name": "Isabella Martinez",
       "position": "Marketing Executive",
       "department": "Sales & Marketing",
@@ -79,7 +79,7 @@
     },
     {
       "id": 8,
-      "img": "img",
+      "img": "women3.png",
       "name": "James Anderson",
       "position": "Network Engineer",
       "department": "IT",
@@ -90,7 +90,7 @@
     },
     {
       "id": 9,
-      "img": "img",
+      "img": "women3.png",
       "name": "Mia Thomas",
       "position": "QA Engineer",
       "department": "Quality Assurance",
@@ -101,7 +101,7 @@
     },
     {
       "id": 10,
-      "img": "img",
+      "img": "women3.png",
       "name": "Benjamin Garcia",
       "position": "DevOps Engineer",
       "department": "IT",

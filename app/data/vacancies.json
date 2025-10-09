@@ -2,7 +2,7 @@
   "vancaniesData": [
     {
       "id": 1,
-      "img": "img",
+      "img": "men1.jpg",
       "position": "Javascript Developer",
       "date": "Aug, 24 2023",
       "location": "Salt Lake City",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "img": "img",
+      "img": "men2.jpg",
       "position": "React.js Developer",
       "date": "Sep, 10 2023",
       "location": "New York",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "img": "img",
+      "img": "men3.jpg",
       "position": "Node.js Backend Engineer",
       "date": "Oct, 05 2023",
       "location": "San Francisco",
@@ -26,7 +26,7 @@
     },
     {
       "id": 4,
-      "img": "img",
+      "img": "men4.jpg",
       "position": "UI/UX Designer",
       "date": "Nov, 15 2023",
       "location": "Los Angeles",
@@ -34,7 +34,7 @@
     },
     {
       "id": 5,
-      "img": "img",
+      "img": "men5.jpg",
       "position": "Python Developer",
       "date": "Dec, 20 2023",
       "location": "Chicago",
@@ -42,7 +42,7 @@
     },
     {
       "id": 6,
-      "img": "img",
+      "img": "women1.jpg",
       "position": "Java Full Stack Developer",
       "date": "Jan, 12 2024",
       "location": "Boston",
@@ -50,7 +50,7 @@
     },
     {
       "id": 7,
-      "img": "img",
+      "img": "women2.jpg",
       "position": "Business Analyst",
       "date": "Feb, 01 2024",
       "location": "Dallas",
@@ -58,7 +58,7 @@
     },
     {
       "id": 8,
-      "img": "img",
+      "img": "women3.jpg",
       "position": "Data Scientist",
       "date": "Mar, 18 2024",
       "location": "Seattle",
@@ -66,7 +66,7 @@
     },
     {
       "id": 9,
-      "img": "img",
+      "img": "women4.jpg",
       "position": "QA Automation Engineer",
       "date": "Apr, 25 2024",
       "location": "Denver",
@@ -74,7 +74,7 @@
     },
     {
       "id": 10,
-      "img": "img",
+      "img": "men.jpg",
       "position": "DevOps Engineer",
       "date": "May, 30 2024",
       "location": "Austin",
