@@ -1,32 +1,26 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, Query
 from app.utils.read_data import read_data
+from app.utils.common_query import get_data_by_id  
 from app.config.config import PAYROLL_FILE, IMAGE_URL
 
 router = APIRouter()
 
-#  Route to get all payrolls
+# Route to get all payrolls or by ID using query string
 @router.get("/")
-def get_payrolls():
-    data = read_data(PAYROLL_FILE)
-    payrolls = data.get("payrolls", [])  # Extract list from key
-
-    for payroll in payrolls:
-        if "img" in payroll:
-            payroll["img"] = f"{IMAGE_URL}/{payroll['img']}"
-    return payrolls
-
-
-# Route to get payroll by ID
-@router.get("/{payroll_id}")
-def get_payroll_by_id(payroll_id: int):
+def get_payrolls(id: int | None = Query(None)):
     data = read_data(PAYROLL_FILE)
     payrolls = data.get("payrolls", [])
 
+    # add image URL for each record
     for payroll in payrolls:
-        if payroll["id"] == payroll_id:
-            if "img" in payroll:
-                payroll["img"] = f"{IMAGE_URL}/{payroll['img']}"
-            return payroll
+        if "img" in payroll and not payroll["img"].startswith("http"):
+            payroll["img"] = f"{IMAGE_URL}/{payroll['img']}"
 
-    return {"error": f"Payroll with id {payroll_id} not found"}
+    # common query function
+    result = get_data_by_id(payrolls, id)
+    return result
+
+
+
+
 

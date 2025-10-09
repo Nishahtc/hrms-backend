@@ -36,7 +36,7 @@
   },
   {
     "id": 3,
-    "img": "men1.jpg",
+    "img": "women5.png",
     "name": "Liam Smith",
     "email": "liam.smith@example.com",
     "position": "HR Manager",
@@ -53,7 +53,7 @@
   },
   {
     "id": 4,
-    "img": "men1.jpg",
+    "img": "women4.png",
     "name": "Ava Davis",
     "email": "ava.davis@example.com",
     "position": "Content Writer",
@@ -70,7 +70,7 @@
   },
   {
     "id": 5,
-    "img": "men1.jpg",
+    "img": "women3.jpg",
     "name": "Noah Wilson",
     "email": "noah.wilson@example.com",
     "position": "UI/UX Designer",
@@ -87,7 +87,7 @@
   },
   {
     "id": 6,
-    "img": "men1.jpg",
+    "img": "women2.jpg",
     "name": "Emma Johnson",
     "email": "emma.johnson@example.com",
     "position": "Backend Developer",
@@ -104,7 +104,7 @@
   },
   {
     "id": 7,
-    "img": "men1.jpg",
+    "img": "women1.jpg",
     "name": "James Lee",
     "email": "james.lee@example.com",
     "position": "Project Manager",
@@ -121,7 +121,7 @@
   },
   {
     "id": 8,
-    "img": "men1.jpg",
+    "img": "men2.jpg",
     "name": "Olivia Martin",
     "email": "olivia.martin@example.com",
     "position": "QA Engineer",
@@ -138,7 +138,7 @@
   },
   {
     "id": 9,
-    "img": "men1.jpg",
+    "img": "men3.jpg",
     "name": "William Scott",
     "email": "william.scott@example.com",
     "position": "Frontend Developer",
@@ -155,7 +155,7 @@
   },
   {
     "id": 10,
-    "img": "men1.jpg",
+    "img": "men4.jpg",
     "name": "Isabella Clark",
     "email": "isabella.clark@example.com",
     "position": "System Analyst",
@@ -172,7 +172,7 @@
   },
   {
     "id": 11,
-    "img": "men1",
+    "img": "men5.png",
     "name": "Lucas Young",
     "email": "lucas.young@example.com",
     "position": "Network Engineer",
@@ -189,7 +189,7 @@
   },
   {
     "id": 12,
-    "img": "men1",
+    "img": "men1.png",
     "name": "Mia Robinson",
     "email": "mia.robinson@example.com",
     "position": "SEO Specialist",
@@ -206,7 +206,7 @@
   },
   {
     "id": 13,
-    "img": "men1",
+    "img": "women4.png",
     "name": "Benjamin Hall",
     "email": "benjamin.hall@example.com",
     "position": "Data Analyst",
@@ -223,7 +223,7 @@
   },
   {
     "id": 14,
-    "img": "men1",
+    "img": "men1.png",
     "name": "Charlotte King",
     "email": "charlotte.king@example.com",
     "position": "HR Executive",
@@ -240,7 +240,7 @@
   },
   {
     "id": 15,
-    "img": "men1",
+    "img": "men3.png",
     "name": "Daniel Wright",
     "email": "daniel.wright@example.com",
     "position": "Mobile App Developer",
@@ -257,7 +257,7 @@
   },
   {
     "id": 16,
-    "img": "",
+    "img": "women2.png",
     "name": "Extra Employee",
     "email": "extra.employee@example.com",
     "position": "Tester",
