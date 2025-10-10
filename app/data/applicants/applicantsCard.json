@@ -1,0 +1,43 @@
+{
+    "applicants" :[
+  {
+    "title": "Open Positions",
+    "subtitle": "ALL VACANCIES",
+    "value": 358,
+    "badge": "+22 new",
+    "chartColor": "#1F74EC",
+    "data": [20, 30, 40, 25, 35, 45, 50],
+    "highlightIndexes": [0, 1, 2, 3]
+  },
+  {
+    "title": "Active Candidates",
+    "subtitle": "ALL VACANCIES",
+    "value": 125,
+    "badge": "+12 new",
+    "chartColor": "#9566F2",
+    "data": [30, 25, 20, 15, 30, 25, 35],
+    "highlightIndexes": [0, 4, 5, 6]
+  },
+  {
+    "title": "Hiring Process",
+    "subtitle": "AVERAGE",
+    "value": "12",
+    "tag": "HRS",
+    "badge": "6 stages",
+    "chartColor": "#FAAB3C",
+    "data": [10, 20, 15, 25, 18, 22, 19],
+    "highlightIndexes": [0, 1, 2, 3, 4]
+  },
+  {
+    "title": "Candidate Experience",
+    "subtitle": "AVERAGE",
+    "value": "3+",
+    "tag": "YRS",
+    "badge": "+50%",
+    "chartColor": "#23EB31",
+    "data": [15, 20, 18, 22, 19, 21, 23],
+    "highlightIndexes": [0, 2, 4, 6]
+  }
+]
+
+}

@@ -1,18 +1,25 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-
-#  all routers
-from app.routes.payroll_routes import router as payroll_router
-from app.routes.employees_routes import router as employee_router
-from app.routes.vacancies_routes import router as vacancies_router
-from app.routes.leaves_routes import router as leaves_router
-from app.routes.applicant_routes import router as applicant_router
-from app.routes.candidate_routes import router as candidate_router
-from app.routes.employees_details_routes import router as employees_details_router
 from fastapi.staticfiles import StaticFiles
+
+# Routers
+from app.routes.payroll_routes import router as payroll_router
+from app.routes.leaves_routes import router as leaves_router
+from app.routes.vacancies_routes import router as vacancies_router
+from app.routes.vacancies_list_routes import router as vacancies_list_router
+from app.routes.vacancies_details_routes import router as vacancies_details_router
+from app.routes.candidate_routes import router as candidate_router
+from app.routes.applicant_routes import router as applicants_card_router
+from app.routes.applicant_data_routes import router as applicants_data_router
+from app.routes.applicant_detail_routes import router as applicants_details_router
+from app.routes.employees_routes import router as employee_router
+from app.routes.employees_list_routes import router as employee_list_router
+from app.routes.employees_details_routes import router as employees_details_router
+
+# FastAPI app instance
 app = FastAPI()
 
-
+# CORS Middleware
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
@@ -24,19 +31,29 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# Static Files
 app.mount("/images", StaticFiles(directory="app/images"), name="images")
-app.include_router(payroll_router, prefix="/payrolls", tags=["Payrolls"])
-app.include_router(employee_router, prefix="/employees", tags=["Employees"])
-app.include_router(vacancies_router, prefix="/vacancies", tags=["Vacancies"])
-app.include_router(leaves_router, prefix="/leaves", tags=["Leaves"])
-app.include_router(applicant_router, prefix="/applicants", tags=["Applicants"])
-app.include_router(candidate_router, prefix="/candidates", tags=["Candidates"])
-app.include_router(employees_details_router, prefix="/employeesDetails", tags=["Employee Details"])
 
+# Include Routers 
+app.include_router(payroll_router, prefix="/payrolls", tags=["Payrolls"])                    
+app.include_router(leaves_router, prefix="/leaves", tags=["Leaves"])                       
+app.include_router(vacancies_router, prefix="/vacancies", tags=["Vacancies"])                
+app.include_router(vacancies_list_router, prefix="/vacanciesList", tags=["Vacancy List"])     
+app.include_router(vacancies_details_router, prefix="/vacanciesDetails", tags=["Vacancy Details"]) 
+app.include_router(candidate_router, prefix="/candidates", tags=["Candidates"])              
+app.include_router(applicants_card_router, prefix="/applicantsCard", tags=["Applicants Card"]) 
+app.include_router(applicants_data_router, prefix="/applicantsData", tags=["Applicants Data"]) 
+app.include_router(applicants_details_router, prefix="/applicantsDetails", tags=["Applicants Details"]) 
+app.include_router(employee_router, prefix="/employees", tags=["Employees"])                 
+app.include_router(employee_list_router, prefix="/employeesList", tags=["Employees List"])   
+app.include_router(employees_details_router, prefix="/employeesDetails", tags=["Employee Details"]) 
 
+# Home route
 @app.get("/")
 def home():
     return {"message": "HRMS Backend Running Successfully!"}
+
+
 
 
 

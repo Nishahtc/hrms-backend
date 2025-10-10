@@ -1,0 +1,192 @@
+{
+    "applicantsDetails" :[
+  {
+    "id": 1,
+    "img": "img",
+    "name": "Jameson Steuber",
+    "appliedFor": "Full Stack Web Development",
+    "status": "New Application",
+    "email": "o.williams@expample.com",
+    "phone": 123457890,
+    "linkdin": "linkedin.com/in/j.steuber",
+    "applied": "Aug 22, 2023",
+    "degree": "Bachelor of Science in Computer Science",
+    "college": "University of California",
+    "yearOfPassing": "Graduated May 2017",
+    "certification": "Certification in Full Stack Web Development",
+    "deadline": "Dec 22, 2020",
+    "projectLeader": "Henry Richardson",
+    "websiteRedesign": "50%",
+    "skills": [
+      "Java",
+      "JavaScript",
+      "Python",
+      "HTML5",
+      "CSS",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "SQL",
+      "Bootstrap",
+      "Tailwind CSS",
+      "Git & GitHub",
+      "REST API",
+      "Redux"
+    ],
+    "professionalExp": [
+      {
+        "role": "Senior Project Manager",
+        "duration": "Jun 2017 - Jul 2019",
+        "location": "Dayton",
+        "description": "Worked on front-end development and collaborated with the design team."
+      },
+      {
+        "role": "Software Engineer",
+        "duration": "Aug 2019 - Dec 2020",
+        "location": "Louisville",
+        "description": "Developed and maintained backend APIs using Node.js and MongoDB."
+      },
+      {
+        "role": "Project Coordinator",
+        "duration": "Jan 2021 - Dec 2022",
+        "location": "Dayton",
+        "description": "Handled client communication, project tracking, and reporting to leadership."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "img",
+    "name": "Sophia Martinez",
+    "appliedFor": "UI/UX Designer",
+    "status": "Interview Scheduled",
+    "email": "s.martinez@example.com",
+    "phone": 9876543210,
+    "linkdin": "linkedin.com/in/s.martinez",
+    "applied": "Sep 01, 2023",
+    "degree": "Bachelor of Arts in Graphic Design",
+    "college": "New York University",
+    "yearOfPassing": "Graduated Jun 2018",
+    "certification": "Certification in UI/UX Design",
+    "deadline": "Nov 10, 2020",
+    "projectLeader": "Amelia Robinson",
+    "websiteRedesign": "70%",
+    "skills": ["Figma", "Adobe XD", "Sketch", "Prototyping", "Wireframing"],
+    "professionalExp": [
+      {
+        "role": "UI Designer",
+        "duration": "Jun 2018 - Jul 2020",
+        "location": "Brooklyn",
+        "description": "Created design prototypes and user flows for web applications."
+      },
+      {
+        "role": "UX Designer",
+        "duration": "Aug 2020 - Dec 2022",
+        "location": "Queens",
+        "description": "Conducted user research and optimized app usability for better customer satisfaction."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "img",
+    "name": "Liam Johnson",
+    "appliedFor": "Backend Developer",
+    "status": "Shortlisted",
+    "email": "l.johnson@example.com",
+    "phone": 8765432109,
+    "linkdin": "linkedin.com/in/l.johnson",
+    "applied": "Jul 15, 2023",
+    "degree": "Bachelor of Technology in Information Technology",
+    "college": "Stanford University",
+    "yearOfPassing": "Graduated May 2016",
+    "certification": "AWS Certified Developer",
+    "deadline": "Oct 05, 2020",
+    "projectLeader": "David Thompson",
+    "websiteRedesign": "40%",
+    "skills": ["Node.js", "Express.js", "MongoDB", "PostgreSQL", "Docker"],
+    "professionalExp": [
+      {
+        "role": "Backend Developer",
+        "duration": "Aug 2016 - Jan 2019",
+        "location": "Palo Alto",
+        "description": "Built scalable APIs and database integrations for enterprise apps."
+      },
+      {
+        "role": "Senior Backend Developer",
+        "duration": "Feb 2019 - Dec 2022",
+        "location": "San Francisco",
+        "description": "Designed and optimized backend systems for high-traffic applications."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "img",
+    "name": "Ava Thompson",
+    "appliedFor": "Project Manager",
+    "status": "Offer Extended",
+    "email": "a.thompson@example.com",
+    "phone": 7654321098,
+    "linkdin": "linkedin.com/in/a.thompson",
+    "applied": "Jun 20, 2023",
+    "degree": "Master of Business Administration",
+    "college": "Harvard University",
+    "yearOfPassing": "Graduated May 2015",
+    "certification": "PMP Certification",
+    "deadline": "Aug 18, 2020",
+    "projectLeader": "Ethan Walker",
+    "websiteRedesign": "85%",
+    "skills": ["Agile", "Scrum", "Leadership", "Jira", "Risk Management"],
+    "professionalExp": [
+      {
+        "role": "Assistant Project Manager",
+        "duration": "Jul 2015 - Dec 2017",
+        "location": "Boston",
+        "description": "Assisted project teams in executing Agile projects across departments."
+      },
+      {
+        "role": "Project Manager",
+        "duration": "Jan 2018 - Dec 2022",
+        "location": "New York",
+        "description": "Led cross-functional teams and successfully delivered multiple IT projects."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "img",
+    "name": "Ethan Williams",
+    "appliedFor": "Frontend Developer",
+    "status": "New Application",
+    "email": "e.williams@example.com",
+    "phone": 6543210987,
+    "linkdin": "linkedin.com/in/e.williams",
+    "applied": "May 10, 2023",
+    "degree": "Bachelor of Science in Software Engineering",
+    "college": "MIT",
+    "yearOfPassing": "Graduated May 2019",
+    "certification": "React Developer Certification",
+    "deadline": "Jul 25, 2020",
+    "projectLeader": "Sophia Carter",
+    "websiteRedesign": "65%",
+    "skills": ["React.js", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
+    "professionalExp": [
+      {
+        "role": "Frontend Developer Intern",
+        "duration": "Jun 2019 - May 2020",
+        "location": "Cambridge",
+        "description": "Worked on building interactive UI components and responsive layouts."
+      },
+      {
+        "role": "Frontend Developer",
+        "duration": "Jun 2020 - Dec 2022",
+        "location": "Boston",
+        "description": "Developed and maintained frontend applications using React.js and Tailwind."
+      }
+    ]
+  }
+]
+
+}

@@ -1,0 +1,116 @@
+{
+    "vacanciesDetails":[
+  {
+    "id": 1,
+    "title": "Senior Software Developer",
+    "jobDetails": {
+      "title": "Senior Software Developer",
+      "status": "Active",
+      "dates": "Aug 22, 2023 - Aug 22, 2023",
+      "salary": "Ensure to check the references provided by Emily Johnson",
+      "skills": "Java, Spring Framework, REST API design and implementation, experience with Agile methodologies, database management.",
+      "description": "We are seeking an experienced Senior Software Developer to join our team. You will be responsible for designing, developing …",
+      "notes": "Ensure to check the references provided by Emily Johnson"
+    },
+    "chartRanges": {
+      "Nov 01 - 07": [20, 38, 32, 28, 21, 25, 30],
+      "Nov 08 - 14": [15, 24, 18, 32, 29, 40, 38],
+      "Nov 15 - 21": [22, 30, 25, 28, 35, 20, 18]
+    },
+    "pieData": {
+      "labels": ["< 1 year", "1-3 years", "3+ years"],
+      "series": [24, 55, 45]
+    },
+    "overviewCards": [
+      { "title": "Vacancy Views", "value": 569, "growth": "↑ 12%" },
+      { "title": "Total Applications", "value": 124, "growth": "↑ 8%" },
+      { "title": "Shortlisted", "value": 32, "growth": "↑ 5%" },
+      { "title": "Awaiting Review", "value": 92, "growth": "↑ 10%" }
+    ],
+    "recentActivity": [
+      {
+        "icon": "",
+        "title": "Interview Feedback",
+        "desc": "Feedback from the recent interview with David Clark was positive for the Senior Software Developer position."
+      },
+      {
+        "icon": "",
+        "title": "Application Withdrawn",
+        "desc": "Lisa Williams withdrew her application for the Senior Software Developer role."
+      },
+      {
+        "icon": "",
+        "title": "Interview Scheduled",
+        "desc": "Emily Johnson's interview for the Senior Software Developer role is scheduled for August 25."
+      },
+      {
+        "icon": "",
+        "title": "Offer Extended",
+        "desc": "Offer was extended to Sarah Miller for the Senior Software Developer position."
+      },
+      {
+        "icon": "",
+        "title": "New Application Submitted",
+        "desc": "John Smith submitted an application for the Senior Software Developer position."
+      }
+    ]
+  },
+  
+  {
+    "id": "senior-frontend-dev",
+    "title": "Senior Frontend Developer",
+    "jobDetails": {
+      "title": "Senior Frontend Developer",
+      "status": "Active",
+      "dates": "Sep 01, 2023 - Oct 01, 2023",
+      "salary": "₹12–15 LPA",
+      "skills": "React, TypeScript, Tailwind CSS, Next.js, UI/UX fundamentals, REST APIs",
+      "description": "Looking for a Senior Frontend Developer to design and implement beautiful and scalable web apps.",
+      "notes": "Must be proficient in React ecosystem."
+    },
+    "chartRanges": {
+      "Nov 01 - 07": [15, 35, 28, 31, 40, 22, 25],
+      "Nov 08 - 14": [25, 28, 34, 40, 35, 38, 45],
+      "Nov 15 - 21": [20, 25, 30, 28, 36, 30, 24]
+    },
+    "pieData": {
+      "labels": ["< 1 year", "1-3 years", "3+ years"],
+      "series": [18, 67, 39]
+    },
+    "overviewCards": [
+      { "title": "Vacancy Views", "value": 689, "growth": "↑ 10%" },
+      { "title": "Total Applications", "value": 124, "growth": "↑ 12%" },
+      { "title": "Shortlisted", "value": 32, "growth": "↑ 12%" },
+      { "title": "Awaiting Review", "value": 92, "growth": "↑ 12%" }
+    ],
+    "recentActivity": [
+      {
+        "icon": "",
+        "title": "Interview Feedback",
+        "desc": "Feedback from David Clark for Frontend Developer was positive."
+      },
+      {
+        "icon": "",
+        "title": "Application Withdrawn",
+        "desc": "Lisa withdrew her Frontend Developer application."
+      },
+      {
+        "icon": "",
+        "title": "Interview Scheduled",
+        "desc": "Emily's interview for Frontend Developer is on August 25."
+      },
+      {
+        "icon": "",
+        "title": "Offer Extended",
+        "desc": "Offer extended to Sarah Miller for Frontend Developer."
+      },
+      {
+        "icon": "",
+        "title": "Application Received",
+        "desc": "John Smith applied for Frontend Developer."
+      }
+    ]
+  }
+]
+
+}

@@ -1,0 +1,185 @@
+{
+    "employeesList" :[
+  {
+    "name": "Kallie Towne",
+    "position": "PHP Web Developer",
+    "department": "Development",
+    "status": "ACTIVE",
+    "joiningDate": "Sep 12 2023",
+    "emailId": "kallie@example.com",
+    "phone": "(123) 456-7890"
+  },
+  {
+    "name": "Chester Wiza",
+    "position": "Full Stack Developer",
+    "department": "Sales & Marketing",
+    "status": "REMOTE",
+    "joiningDate": "Aug 2 2023",
+    "emailId": "chester@example.com",
+    "phone": "(555) 123-4567"
+  },
+  {
+    "name": "Leora Rolfson",
+    "position": "UI/UX Designer",
+    "department": "Development",
+    "status": "ACTIVE",
+    "joiningDate": "Jul 12 2023",
+    "emailId": "leora@example.com",
+    "phone": "(789) 012-3456"
+  },
+  {
+    "name": "Zechariah Bots",
+    "position": "Data Analyst",
+    "department": "Analytics & Data",
+    "status": "ON LEAVE",
+    "joiningDate": "Apr 5 2023",
+    "emailId": "zechariah@example.com",
+    "phone": "(123) 456-7890"
+  },
+  {
+    "name": "Triston Bode",
+    "position": "Frontend Developer",
+    "department": "Development",
+    "status": "ACTIVE",
+    "joiningDate": "Feb 11 2023",
+    "emailId": "triston@example.com",
+    "phone": "(888) 555-7890"
+  },
+  {
+    "name": "Graham Rice",
+    "position": "C++ Game Developer",
+    "department": "Development",
+    "status": "ACTIVE",
+    "joiningDate": "Jan 29 2023",
+    "emailId": "graham@example.com",
+    "phone": "(123) 554-7612"
+  },
+  {
+    "name": "Annette Jast",
+    "position": "Project Manager",
+    "department": "Analytics & Data",
+    "status": "REMOTE",
+    "joiningDate": "Nov 18 2022",
+    "emailId": "annette@example.com",
+    "phone": "(888) 324-5678"
+  },
+  {
+    "name": "Kallie Towne",
+    "position": "Graphic Designer",
+    "department": "Sales & Marketing",
+    "status": "TERMINATED",
+    "joiningDate": "Jan 10 2022",
+    "emailId": "kallie2@example.com",
+    "phone": "(143) 453-8733"
+  },
+  {
+    "name": "Ethan Hunt",
+    "position": "Backend Developer",
+    "department": "IT",
+    "status": "ACTIVE",
+    "joiningDate": "Jun 1 2022",
+    "emailId": "ethan@example.com",
+    "phone": "(321) 654-9870"
+  },
+  {
+    "name": "Sophia Loren",
+    "position": "HR Manager",
+    "department": "HR",
+    "status": "INACTIVE",
+    "joiningDate": "Mar 12 2021",
+    "emailId": "sophia@example.com",
+    "phone": "(654) 321-0987"
+  },
+  {
+    "name": "Michael Scott",
+    "position": "Regional Manager",
+    "department": "Sales",
+    "status": "ACTIVE",
+    "joiningDate": "Dec 24 2020",
+    "emailId": "michael@example.com",
+    "phone": "(111) 222-3333"
+  },
+  {
+    "name": "Jim Halpert",
+    "position": "Sales Executive",
+    "department": "Sales",
+    "status": "ON LEAVE",
+    "joiningDate": "Jan 15 2022",
+    "emailId": "jim@example.com",
+    "phone": "(444) 555-6666"
+  },
+  {
+    "name": "Pam Beesly",
+    "position": "Receptionist",
+    "department": "Admin",
+    "status": "REMOTE",
+    "joiningDate": "Oct 9 2021",
+    "emailId": "pam@example.com",
+    "phone": "(777) 888-9999"
+  },
+  {
+    "name": "Dwight Schrute",
+    "position": "Assistant Manager",
+    "department": "Sales",
+    "status": "ACTIVE",
+    "joiningDate": "Nov 20 2020",
+    "emailId": "dwight@example.com",
+    "phone": "(222) 333-4444"
+  },
+  {
+    "name": "Angela Martin",
+    "position": "Accountant",
+    "department": "Finance",
+    "status": "ACTIVE",
+    "joiningDate": "Aug 30 2020",
+    "emailId": "angela@example.com",
+    "phone": "(555) 444-3333"
+  },
+  {
+    "name": "Kevin Malone",
+    "position": "Accountant",
+    "department": "Finance",
+    "status": "TERMINATED",
+    "joiningDate": "Jul 5 2019",
+    "emailId": "kevin@example.com",
+    "phone": "(666) 777-8888"
+  },
+  {
+    "name": "Oscar Martinez",
+    "position": "Senior Analyst",
+    "department": "Finance",
+    "status": "ACTIVE",
+    "joiningDate": "Sep 15 2018",
+    "emailId": "oscar@example.com",
+    "phone": "(999) 000-1111"
+  },
+  {
+    "name": "Stanley Hudson",
+    "position": "Sales Rep",
+    "department": "Sales",
+    "status": "INACTIVE",
+    "joiningDate": "Apr 10 2017",
+    "emailId": "stanley@example.com",
+    "phone": "(123) 987-6543"
+  },
+  {
+    "name": "Phyllis Vance",
+    "position": "Sales Rep",
+    "department": "Sales",
+    "status": "ACTIVE",
+    "joiningDate": "May 20 2016",
+    "emailId": "phyllis@example.com",
+    "phone": "(234) 876-5432"
+  },
+  {
+    "name": "Ryan Howard",
+    "position": "Intern",
+    "department": "Sales",
+    "status": "REMOTE",
+    "joiningDate": "Jul 2 2015",
+    "emailId": "ryan@example.com",
+    "phone": "(345) 765-4321"
+  }
+]
+
+}

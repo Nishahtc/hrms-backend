@@ -1,7 +1,7 @@
 from fastapi import APIRouter, Query, HTTPException
 from app.utils.read_data import read_data
 from app.utils.common_query import get_data_by_id
-from app.config.config import APPLICANT_CARD_FILE, IMAGE_URL  # Use the correct config file
+from app.config.config import APPLICANT_DETAILS_FILE, IMAGE_URL  
 
 router = APIRouter()
 
@@ -10,8 +10,8 @@ def get_applicants(id: int | None = Query(None)):
     """
     Get all applicants or a single applicant by ID.
     """
-    data = read_data(APPLICANT_CARD_FILE)
-    applicants = data.get("applicants", [])  
+    data = read_data(APPLICANT_DETAILS_FILE)
+    applicants = data.get("applicantsDetails", [])  
 
     # Add full image URL for each record
     for applicant in applicants:
