@@ -25,4 +25,3 @@ EMPLOYEE_LIST_FILE = os.path.join(DATA_DIR,"employees", "employeesList.json")
 EMPLOYEE_DETAILS_FILE = os.path.join(DATA_DIR, "employees", "employessDetail.json")
 
 
-
