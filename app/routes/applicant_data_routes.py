@@ -7,11 +7,9 @@ router = APIRouter()
 
 @router.get("/")
 def get_applicants(id: int | None = Query(None)):
-    """
-    Get all applicants or a single applicant by ID.
-    """
+  
     data = read_data(APPLICANT_DATA_FILE)
-    applicants = data.get("applicantsData", [])  
+    applicants = data.get("applicantData", [])  
 
     # Add full image URL for each record
     for applicant in applicants:
