@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Olivia Williams",
-            "img": "img_placeholder.jpg",
+            "img": "men5.png",
             "position": "Project Manager",
             "department": "Sales & Marketing",
             "dateOfJoining": "Jan 19, 2020",
@@ -141,7 +141,7 @@
         {
             "id": 2,
             "name": "Chester Wiza",
-            "img": "img_placeholder.jpg",
+            "img": "men3.png",
             "position": "Full Stack Developer",
             "department": "Sales & Marketing",
             "dateOfJoining": "Aug 2, 2023",
@@ -217,7 +217,7 @@
         {
     "id": 3,
     "name": "Kallie Towne",
-    "img": "img_placeholder.jpg",
+    "img": "women3.png",
     "position": "Graphic Designer",
     "department": "Sales & Marketing",
     "dateOfJoining": "Jan 10, 2022",
@@ -284,7 +284,7 @@
         {
     "id": 4,
     "name": "Ethan Hunt",
-    "img": "img_placeholder.jpg",
+    "img": "women1.png",
     "position": "Backend Developer",
     "department": "IT",
     "dateOfJoining": "Jun 1, 2022",
