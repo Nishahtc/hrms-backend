@@ -1,0 +1,29 @@
+{
+  "stateData": [
+    {
+      "id": 1,
+      "lineColor": "success",
+      "value": 79,
+      "text": "Open Positions"
+    },
+    {
+      "id": 2,
+      "lineColor": "warning",
+      "value": 160,
+      "text": "Applicants"
+    },
+    {
+      "id": 3,
+      "lineColor": "secondary",
+      "value": 7,
+      "text": "Outstanding Offers"
+    },
+    {
+      "id": 4,
+      "lineColor": "primary",
+      "value": 18,
+      "text": "Currently Onboarding"
+    }
+  ]
+}
+

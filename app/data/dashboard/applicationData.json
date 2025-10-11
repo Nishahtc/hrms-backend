@@ -1,0 +1,26 @@
+{
+  "applicationData": [
+    {
+      "id": 1,
+      "img": "men4.jpg",
+      "title": "UX Designer",
+      "applications": 64,
+      "newApplications": 6
+    },
+    {
+      "id": 2,
+      "img": "women1.jpg",
+      "title": "Project Manager",
+      "applications": 164,
+      "newApplications": 12
+    },
+    {
+      "id": 3,
+      "img": "women3.jpg",
+      "title": "React Developer",
+      "applications": 27,
+      "newApplications": 7
+    }
+  ]
+}
+

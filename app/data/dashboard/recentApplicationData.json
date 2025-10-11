@@ -1,0 +1,41 @@
+{
+  "recentApplicationData": [
+    {
+      "id": 1,
+      "img": "men1.jpg",
+      "name": "Kaitlyn Spinka",
+      "position": "Project Manager",
+      "badgeColor": "warning-700"
+    },
+    {
+      "id": 2,
+      "img": "men2.jpg",
+      "name": "Oliver Fadel",
+      "position": "QA Tester",
+      "badgeColor": "success-700"
+    },
+    {
+      "id": 3,
+      "img": "men3.jpg",
+      "name": "Dell Considine",
+      "position": "UX/UI Designer",
+      "badgeColor": "brand-600"
+    },
+    {
+      "id": 4,
+      "img": "men4.jpg",
+      "name": "Chester Wiza",
+      "position": "IT Support",
+      "badgeColor": "warning-700"
+    },
+    {
+      "id": 5,
+      "img": "men5.jpg",
+      "name": "Roman Kirlin",
+      "position": "Graphic Designer",
+      "badgeColor": "secondary-700"
+    }
+  ]
+}
+
+

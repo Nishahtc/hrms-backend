@@ -15,6 +15,7 @@ from app.routes.applicant_detail_routes import router as applicants_details_rout
 from app.routes.employees_routes import router as employee_router
 from app.routes.employees_list_routes import router as employee_list_router
 from app.routes.employees_details_routes import router as employees_details_router
+from app.routes.calendar_schedules import router as schedules_router
 
 # FastAPI app instance
 app = FastAPI()
@@ -47,7 +48,7 @@ app.include_router(applicants_details_router, prefix="/applicantsDetails")
 app.include_router(employee_router, prefix="/employees")                 
 app.include_router(employee_list_router, prefix="/employeesList")   
 app.include_router(employees_details_router, prefix="/employeesDetails") 
-
+app.include_router(schedules_router, prefix="/calendarSchedules")
 # Home route
 @app.get("/")
 def home():

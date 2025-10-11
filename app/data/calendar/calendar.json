@@ -1,0 +1,114 @@
+{
+  "schedules": [
+    {
+      "id": 1,
+      "eventTitle": "Team Standup Meeting",
+      "date": "12-10-2025",
+      "startTime": "09:00",
+      "endTime": "09:30",
+      "link": "https://www.examplewebinars.com/team-standup",
+      "guest": "John Doe",
+      "description": "Daily team sync to discuss progress and blockers.",
+      "color": "#FF6B6B"
+    },
+    {
+      "id": 2,
+      "eventTitle": "Employee Wellness Webinar",
+      "date": "13-10-2025",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "link": "https://www.examplewebinars.com/employee-wellness",
+      "guest": "Sarah Johnson",
+      "description": "Learn stress management and wellness techniques.",
+      "color": "#6BCB77"
+    },
+    {
+      "id": 3,
+      "eventTitle": "Client Presentation",
+      "date": "14-10-2025",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "link": "https://www.examplewebinars.com/client-presentation",
+      "guest": "Michael Smith",
+      "description": "Showcase latest product updates to the client.",
+      "color": "#4D96FF"
+    },
+    {
+      "id": 4,
+      "eventTitle": "Project Planning Session",
+      "date": "15-10-2025",
+      "startTime": "11:00",
+      "endTime": "12:30",
+      "link": "https://www.examplewebinars.com/project-planning",
+      "guest": "Emma Williams",
+      "description": "Define goals, tasks, and timelines for Q4 projects.",
+      "color": "#FFD93D"
+    },
+    {
+      "id": 5,
+      "eventTitle": "HR Policy Update Meeting",
+      "date": "16-10-2025",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "link": "https://www.examplewebinars.com/hr-policy",
+      "guest": "David Brown",
+      "description": "Discuss recent changes in HR policies.",
+      "color": "#FF9F1C"
+    },
+    {
+      "id": 6,
+      "eventTitle": "Design Review",
+      "date": "17-10-2025",
+      "startTime": "13:00",
+      "endTime": "14:30",
+      "link": "https://www.examplewebinars.com/design-review",
+      "guest": "Sophia Lee",
+      "description": "Review UI/UX updates for the new product.",
+      "color": "#845EC2"
+    },
+    {
+      "id": 7,
+      "eventTitle": "Marketing Strategy Call",
+      "date": "18-10-2025",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "link": "https://www.examplewebinars.com/marketing-strategy",
+      "guest": "Olivia Martinez",
+      "description": "Brainstorm ideas for the upcoming marketing campaign.",
+      "color": "#00C9A7"
+    },
+    {
+      "id": 8,
+      "eventTitle": "Product Demo",
+      "date": "19-10-2025",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "link": "https://www.examplewebinars.com/product-demo",
+      "guest": "Ethan Clark",
+      "description": "Demonstration of new software features.",
+      "color": "#FF5E78"
+    },
+    {
+      "id": 9,
+      "eventTitle": "Code Review Session",
+      "date": "20-10-2025",
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "link": "https://www.examplewebinars.com/code-review",
+      "guest": "William Davis",
+      "description": "Peer review of the recent code commits.",
+      "color": "#2A9D8F"
+    },
+    {
+      "id": 10,
+      "eventTitle": "Team Building Activity",
+      "date": "21-10-2025",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "link": "https://www.examplewebinars.com/team-building",
+      "guest": "Isabella Taylor",
+      "description": "Fun activities to enhance teamwork and communication.",
+      "color": "#F15BB5"
+    }
+  ]
+}

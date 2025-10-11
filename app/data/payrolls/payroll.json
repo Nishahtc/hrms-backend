@@ -15,7 +15,7 @@
     "workingHours": "Full Day",
     "salary": "$2400",
     "status": "In Progress",
-    "statusColor": "warning-700"
+    "statusColor": "info"
   },
   {
     "id": 2,

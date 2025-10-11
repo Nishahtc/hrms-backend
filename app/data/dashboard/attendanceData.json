@@ -1,0 +1,11 @@
+{
+  "attendanceData": [
+    {
+      "id": 1,
+      "reportedEmployees": 230,
+      "onLeave": 12,
+      "notReported": 5,
+      "attendancePercentage": 97
+    }
+  ]
+}

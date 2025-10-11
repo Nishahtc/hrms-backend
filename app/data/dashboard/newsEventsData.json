@@ -1,0 +1,30 @@
+{
+  "newsEventsData": [
+    {
+      "id": 1,
+      "date": "Nov 16",
+      "title": "High Employee Satisfaction",
+      "description": "82% Employees satisfied"
+    },
+    {
+      "id": 2,
+      "date": "Nov 20",
+      "title": "Diversity Workshops",
+      "description": "Interactive diversity workshops with trainers"
+    },
+    {
+      "id": 3,
+      "date": "Nov 24",
+      "title": "Work-Life Balance Award",
+      "description": "Won for flexible working conditions and initiatives"
+    },
+    {
+      "id": 4,
+      "date": "Nov 26",
+      "title": "Remote Work Launch",
+      "description": "Remote work arrangements launched"
+    }
+  ]
+}
+
+

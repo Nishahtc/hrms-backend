@@ -8,6 +8,7 @@ DATA_DIR = os.path.join(BASE_DIR, "data")
 BASE_URL = "https://hrms-backend-5vc1.onrender.com"
 IMAGE_URL = f"{BASE_URL}/images/avatar"
 PAYROLL_FILE = os.path.join(DATA_DIR, "payrolls", "payroll.json") 
+CALENDAR_FILE = os.path.join(DATA_DIR, "calendar", "calendar.json") 
 
 LEAVES_FILE = os.path.join(DATA_DIR,"leaves" ,"leaves.json")
 
@@ -24,4 +25,10 @@ EMPLOYEE_FILE = os.path.join(DATA_DIR, "employees", "employees.json")
 EMPLOYEE_LIST_FILE = os.path.join(DATA_DIR,"employees", "employeesList.json")
 EMPLOYEE_DETAILS_FILE = os.path.join(DATA_DIR, "employees", "employessDetail.json")
 
-
+DASHBOARD_APPLICATION_FILE = os.path.join(DATA_DIR, "dashboard", "applicationData.json")
+DASHBOARD_ATTENDANCE_FILE = os.path.join(DATA_DIR, "dashboard", "attendanceData.json")
+DASHBOARD_DEPARTMENT_FILE = os.path.join(DATA_DIR, "dashboard", "employeerByDepartment.json")
+DASHBOARD_NEWS_EVENT_FILE = os.path.join(DATA_DIR, "dashboard", "newsEventsData.json")
+DASHBOARD_RECENT_APPLICATION_FILE = os.path.join(DATA_DIR, "dashboard", "recentApplicationData.json")
+DASHBOARD_STATE_FILE = os.path.join(DATA_DIR, "dashboard", "stateData.json")
+DASHBOARD_TOPHIRRING_FILE = os.path.join(DATA_DIR, "dashboard", "topHiringData.json")
