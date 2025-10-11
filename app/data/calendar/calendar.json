@@ -9,7 +9,7 @@
       "link": "https://www.examplewebinars.com/team-standup",
       "guest": "John Doe",
       "description": "Daily team sync to discuss progress and blockers.",
-      "color": "#FF6B6B"
+      "color": "FEF0DB"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "link": "https://www.examplewebinars.com/employee-wellness",
       "guest": "Sarah Johnson",
       "description": "Learn stress management and wellness techniques.",
-      "color": "#6BCB77"
+      "color": "#DDFCE0"
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "link": "https://www.examplewebinars.com/client-presentation",
       "guest": "Michael Smith",
       "description": "Showcase latest product updates to the client.",
-      "color": "#4D96FF"
+      "color": "#EEF4FE"
     },
     {
       "id": 4,
@@ -42,7 +42,7 @@
       "link": "https://www.examplewebinars.com/project-planning",
       "guest": "Emma Williams",
       "description": "Define goals, tasks, and timelines for Q4 projects.",
-      "color": "#FFD93D"
+      "color": "#F3EEFE"
     },
     {
       "id": 5,
@@ -53,7 +53,7 @@
       "link": "https://www.examplewebinars.com/hr-policy",
       "guest": "David Brown",
       "description": "Discuss recent changes in HR policies.",
-      "color": "#FF9F1C"
+      "color": "#F3EEFE"
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "link": "https://www.examplewebinars.com/design-review",
       "guest": "Sophia Lee",
       "description": "Review UI/UX updates for the new product.",
-      "color": "#845EC2"
+      "color": "#DDFCE0"
     },
     {
       "id": 7,
@@ -75,7 +75,7 @@
       "link": "https://www.examplewebinars.com/marketing-strategy",
       "guest": "Olivia Martinez",
       "description": "Brainstorm ideas for the upcoming marketing campaign.",
-      "color": "#00C9A7"
+      "color": "#DDFCE0"
     },
     {
       "id": 8,
@@ -86,7 +86,7 @@
       "link": "https://www.examplewebinars.com/product-demo",
       "guest": "Ethan Clark",
       "description": "Demonstration of new software features.",
-      "color": "#FF5E78"
+      "color": "#EEF4FE"
     },
     {
       "id": 9,
@@ -97,7 +97,7 @@
       "link": "https://www.examplewebinars.com/code-review",
       "guest": "William Davis",
       "description": "Peer review of the recent code commits.",
-      "color": "#2A9D8F"
+      "color": "#FEF0DB"
     },
     {
       "id": 10,
@@ -108,7 +108,7 @@
       "link": "https://www.examplewebinars.com/team-building",
       "guest": "Isabella Taylor",
       "description": "Fun activities to enhance teamwork and communication.",
-      "color": "#F15BB5"
+      "color": "#DDFCE0"
     }
   ]
 }

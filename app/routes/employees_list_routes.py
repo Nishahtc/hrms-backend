@@ -7,9 +7,7 @@ router = APIRouter()
 
 @router.get("/")
 def get_employees_list(id: int | None = Query(None)):
-    """
-    Get all employees or a single employee by ID from the employee list.
-    """
+   
     data = read_data(EMPLOYEE_LIST_FILE)
     employees_list = data.get("employeesList", [])  
 
